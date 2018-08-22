@@ -15,7 +15,7 @@ Hoje subi no onibus correndo. Resposta: subi no onibus
 Na casa do vizinho a grama é amarga. Resposta: a grama é amarga
 A arara azul é linda! Resposta: arara
 
-3)Desafio 3:
+3) Desafio 3:
 Um prédio possui 3 andares. Em determinadas épocas do ano, os funcionários desse prédio
 bebem muito café. Por conta disso, uma nova máquina de expresso será instalada em um
 dos 3 andares.
